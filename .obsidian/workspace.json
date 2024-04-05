@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "7a86f7db4b234578",
+    "type": "split",
+    "children": [
+      {
+        "id": "9819a1cbcdf1dd0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88fecac21c87dc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 图书/01 烧掉数学书/烧掉数学书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73e1f52c1fe32b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d0b4ac7528cf96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "792eef4211129190",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7104dff3d046db3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf86c20bdb804953",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "9f9059a815c2ddab",
+    "type": "split",
+    "children": [
+      {
+        "id": "91312aad34024e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53c4721dca0bca5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 图书/01 烧掉数学书/烧掉数学书.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "856796e0e85e1816",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 图书/01 烧掉数学书/烧掉数学书.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e058e47b56808766",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28c855564ddc3bac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 图书/01 烧掉数学书/烧掉数学书.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "88fecac21c87dc5d",
+  "lastOpenFiles": [
+    "05 人生领悟/01 对幸福感和追求/对幸福感和追求.md",
+    "06 图书/01 烧掉数学书/烧掉数学书.md",
+    "06 图书/01 烧掉数学书",
+    "06 图书",
+    "01 计算机/02 机器学习",
+    "05 人生领悟/01 对幸福感和追求/对幸福感和追求 01.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/01 数据库系统概念八股文.md",
+    "05 人生领悟/01 对幸福感和追求",
+    "05 人生领悟",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/03 MySQL面试八股文背诵版.md",
+    "04 自我介绍/01 自我介绍.md",
+    "04 自我介绍",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/Pasted image 20240227235709.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 26.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 25.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 20.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/04MySQL八股文连环45问（背诵版）.md",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/v2-5f3f7028267254f3a686f5192cfc854e_720w.webp",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 10.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 01.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 24.png",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/MySQL面试八股文背诵版 23.jpg",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文/02 数据库.pdf",
+    "01 计算机/复试数据库原理要求.md",
+    "01 计算机/01 数据库/数据库系统/02 数据库系统概念八股文",
+    "01 计算机/01 数据库/数据库系统/01 数据库系统概念/01 引言.md",
+    "03 毕业设计/基于Javaspringboot的医疗预约系统.md",
+    "03 毕业设计",
+    "02 他山之石/00 数学学习经验/01 总体学习经验/如果让你重新开始学数学，你的学习路线会怎么选择.md",
+    "02 他山之石/01计算机学习经验/01 总体学习经验/01如果让你重新开始学计算机，你的学习路线会怎么选择.md",
+    "02 他山之石/00 数学学习经验/01 总体学习经验",
+    "00 数学/00 数学分析/数学分析的入门推荐/数学分析的入门推荐.md",
+    "未命名.md",
+    "01 个人主页/实验记录库.md",
+    "01 个人主页/remake的个人主页.md",
+    "02 research/02 实验记录/未命名.md",
+    "00 模板/实验记录模板.md",
+    "2023-03-25.md",
+    "Welcome.md"
+  ]
+}

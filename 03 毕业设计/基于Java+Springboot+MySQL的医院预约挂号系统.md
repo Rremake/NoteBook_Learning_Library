@@ -1,0 +1,4 @@
+[网上药店系统 JAVA毕业设计 Vue+SpringBoot+MySQL_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ch4y1i7Fb/?spm_id_from=333.337.search-card.all.click&vd_source=17a316bb64270890047fa0a4fac9a95d)
+基于微信小程序+JAVA+Vue+SpringBoot+MySQL的智慧家政系统[基于微信小程序的智慧家政系统 JAVA毕业设计 Vue+SpringBoot+MySQL_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iu4y1a7AE/?spm_id_from=333.788&vd_source=17a316bb64270890047fa0a4fac9a95d)
+ 医院预约挂号系统，基于Springboot+Vue的挂号预约系统
+[【从0带做】医院预约挂号系统，基于Springboot+Vue的挂号预约系统，医院挂号、挂号问诊、医院问诊等，可用于实习项目、毕业设计、课程设计等_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1n34y1F7Sr/?spm_id_from=333.337.search-card.all.click&vd_source=17a316bb64270890047fa0a4fac9a95d)
